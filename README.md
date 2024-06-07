@@ -1,7 +1,7 @@
 <h1 align="center">1925 CIHADULLAH</h1>
 <h3 align="center">CIHAD GAZZE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erenzy&label=Profile%20views&color=000000&style=plastic" alt="erenzy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cihadullah&label=Profile%20views&color=000000&style=plastic" alt="cihadullah" /> </p>
 
 - Kureyş Sûresi **Rahmân ve Rahîm olan Allah'ın adıyla. 1- "Kureyş'in emniyetini sağladığı, 2- Yaz ve kış yolculuğunda onları (güvenliğe ulaştırıp başkalarıyla) ısındırıp yakınlaştırdığı için onlar, 3- Bu evin (mabed'in, Kâbe'nin) Rabbine kulluk etsinler. 4- Ki O (Allah) kendilerini açlıktan (kurtarıp) doyuran ve her çeşit korkudan güvenliğe kavuşturandır.**
 
@@ -23,5 +23,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenzy&show_icons=true&theme=dark&locale=en" alt="erenzy" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cihadullah&show_icons=true&theme=dark&locale=en" alt="cihadullah" /></p>
